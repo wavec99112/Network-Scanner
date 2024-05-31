@@ -1,0 +1,4 @@
+nmap
+fpdf
+tqdm
+requests
