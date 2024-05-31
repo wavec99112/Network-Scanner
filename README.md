@@ -1,5 +1,3 @@
-
-复制代码
 # Network Scanner
 
 Network Scanner是一个用Python编写的网络扫描工具，旨在帮助用户在Kali Linux上执行网络渗透测试。
@@ -73,3 +71,21 @@ Fork 本仓库
 MIT License
 
 维护者
+Your Name
+致谢
+感谢所有参与和支持Network Scanner项目的人。
+
+csharp
+复制代码
+
+你可以将上述内容复制并保存为`README.md`文件，然后与其他代码一起提交到GitHub。
+
+```sh
+# 创建 README.md 文件并将内容复制进去
+nano README.md
+
+# 添加 README.md 文件到 Git 仓库
+git add README.md
+git commit -m "Add README file"
+git push origin master
+希望这个README文件能帮助其他用户快速上手和使用你的网络扫描工具！如果你有任何其他问题或需要进一步的帮助，请告诉我。
