@@ -24,8 +24,6 @@ pip install -r requirements.txt
 ```
 ### requirements.txt文件内容如下：
 ```
-text
-复制代码
 nmap
 fpdf
 tqdm
