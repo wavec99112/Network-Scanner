@@ -31,7 +31,7 @@ requests
 ```
 ## 克隆仓库
 ```
-git clone https://github.com/your-username/network-scanner.git
+git clone https://github.com/wavec99112/Network-Scanner.git
 cd network-scanner
 ```
 ## 运行工具
