@@ -202,9 +202,9 @@ def main():
        |_|_|_|
 
        =[ Network Scanner v1.0                        ]
-+ -- --=[ 50 devices discovered                       ]
-+ -- --=[ 123 vulnerabilities found                   ]
-+ -- --=[ Documentation: https://docs.networkscanner.com/ ]
++ -- --=[ 本工具仅供合法的网络安全研究、教学和评估用途。   ]
++ -- --=[ 请勿在未经授权的系统上使用。                    ]
++ -- --=[ 任何非法使用本工具的行为，责任自负。             ]
 """
 
     print(startup_ascii_art)
@@ -266,7 +266,7 @@ def main():
     print("Network Scanner v1.0")
     print("+ -- --=[ 50 devices discovered   ]")
     print("+ -- --=[ 123 vulnerabilities found]")
-    print("Documentation: https://docs.networkscanner.com/")
+    print("Documentation: https://zds666.icu/")
     print("\nscanner > ")
 
 if __name__ == "__main__":
