@@ -12,7 +12,11 @@ Network Scanner是一个用Python编写的网络扫描工具，旨在帮助用�
 - 分析端口信息并判断操作系统和设备类型
 - 生成扫描报告（PDF和HTML格式）
 - 详细日志记录
-
+## 克隆仓库
+```
+git clone https://github.com/wavec99112/Network-Scanner.git
+cd network-scanner
+```
 ## 安装
 
 ### 前提条件
@@ -30,11 +34,7 @@ fpdf
 tqdm
 requests
 ```
-## 克隆仓库
-```
-git clone https://github.com/wavec99112/Network-Scanner.git
-cd network-scanner
-```
+
 ## 运行工具
 ### 在命令行中运行以下命令来启动工具：
 ```
