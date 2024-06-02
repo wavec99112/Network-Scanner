@@ -70,8 +70,9 @@ Fork 本仓库
 推送到分支 (git push origin feature-branch)
 创建一个新的 Pull Request
 ```
-## 许可
+## 许可：
 ```
-MIT License
+版权所有 (c) 2024 WAVE-C9
+
 ```
 ## 维护者：Wave-C9
